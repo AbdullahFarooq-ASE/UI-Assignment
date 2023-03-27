@@ -1,0 +1,33 @@
+.about-us-section{
+    margin-top: 200px;
+    position: relative;
+}
+
+.about-us-desc-div{
+    margin-bottom: 50px;
+}
+
+.about-us-left-section{
+    float: left;
+    margin-right: 100px;
+}
+
+.about-us-div-img{
+    float: left;
+    margin-right: 30px;
+    width: 80px;
+    height: auto;
+}
+
+.about-us-heading{
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.about-us-description{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    display: inline-block;
+}

@@ -1,0 +1,21 @@
+.banner-like{
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 800px;
+}
+
+.left-bg-decor-like{
+    position: absolute;
+    left: 0;
+    top: 1350px;
+    max-width: 480px;
+}
+
+.footer-decor-like{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
