@@ -1,0 +1,106 @@
+@media (max-width: 1550px){
+    .main-content{
+        padding: 0 1rem;
+    }
+}
+
+@media (max-width: 1120px){
+    .info-section{
+        margin-top: 10vh;
+    }
+    .card-section{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .card{
+        margin-top: 30px;
+        margin-right: 0;
+    }
+    .about-us-section{
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-us-right-section{
+        margin-top: 50px;
+    }
+    .about-us-left-section{
+        margin: 0;
+    }
+    .reviews-section{
+        margin-top: 100px;
+    }
+}
+
+@media (max-width: 1260px){
+    .review-cards-div{
+        flex-direction: column;
+        align-items: center;
+    }
+    .review-card{
+        margin-bottom: 100px;
+    }
+    .left-bg-decor-like{
+        width: 100%;
+    }
+}
+@media (max-width: 750px){
+    .banner-like{
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+    }
+}
+@media (max-width:1320px){
+    .footer-top-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .more-about{
+        align-items: center;
+        text-align: center;
+    }
+    .contact-us-form{
+        min-width: auto;
+        margin: 0;
+    }
+    .footer-decor-like{
+        height: 1100px;
+    }
+}
+
+@media (max-width:650px){
+    .credentials-box{
+        flex-direction: column;
+        width: 100%;
+    }
+    .about-us-left-section>img{
+        width: 50vw;
+    }
+    .contact-us-form{
+        width: 100%;
+    }
+
+    .review-card{
+        width: 80%;
+    }
+    .review-img{
+        width: 5em;
+        top: -2.5em;
+        left: -2.5em;
+    }
+    .about-us-description{
+        width: auto;
+    }
+    .about-us-div-img{
+        width: 20vw;
+    }
+}
+
+@media (max-width:350px){
+    .footer-top-container{
+        align-items: normal;
+    }
+    .contact-icon{
+        width: 10vw;
+    }
+}

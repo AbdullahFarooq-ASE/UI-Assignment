@@ -3,6 +3,10 @@
     font-weight: 700;
 }
 
+.navbar{
+    padding-left: 15vw;
+}
+
 .navbar-light .navbar-nav .nav-link{
     font-size: 14px;
     margin-right: 30px;
@@ -13,5 +17,5 @@
 }
 
 .dropdown-item{
-    font-size: 12px;
+    font-size: 0.75rem;
 }

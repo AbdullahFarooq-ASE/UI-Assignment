@@ -1,10 +1,13 @@
 .reviews-section{
-    margin-top: 300px;
+    margin-top: 10vw;
     position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .reviews-section-heading{
-    margin-bottom: 50px;
+    margin-bottom: 5.4vw;
     font-weight: 700;
 }
 
@@ -12,7 +15,10 @@
     font-size: 14px;
     color: rgba(0, 0, 0, 0.5);
     margin-bottom: 100px;
+}
 
+.space-btw-cards{
+    width: 100px;
 }
 
 .review-card{
@@ -21,7 +27,9 @@
     padding: 40px;
     width: 500px;
     position: relative;
-    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .review-stars{
@@ -54,4 +62,6 @@
 
 .review-cards-div{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
 }

@@ -1,18 +1,17 @@
 .info-section{
-    margin-top: 200px;
-    padding: 0 1rem;
+    margin-top: 10.8vw;
     position: relative;
 }
 
 .info-section-heading{
     padding-bottom: 5px;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 900;
 }
 
 .info-section-description{
     font-weight: 200;
-    font-size: 14px;
-    margin-top: 30px;
+    font-size: 0.875rem;
+    margin-top: 1.6vw;
     margin-bottom: 20px;
 }

@@ -1,10 +1,8 @@
 body{
     background: #fff;
-   font-family: 'Poppins', sans-serif;
-   font-weight: 400;
-    font-size: 16px;
-    padding-left: 20%;
-    padding-right: 20%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
     position: relative;
     height: 100%;
 }
@@ -13,9 +11,13 @@ button:focus{
     outline: none;
 }
 
+textarea{
+    resize: none;
+}
+
 .btn-style{
     color: white;
-    font-size: 14px;
+    font-size: 0.875rem;
     border: 0 solid transparent;
     border-radius: 25px;
     padding: 12px 25px;
@@ -35,4 +37,8 @@ button:focus{
 
 .dark-orange-color{
     color: darkorange;
+}
+
+.main-content{
+    padding: 0 20vw;
 }
