@@ -104,3 +104,9 @@
         width: 10vw;
     }
 }
+
+@media (max-width: 992px){
+    .navbar-light .navbar-brand {
+        margin: auto;
+    }
+}
